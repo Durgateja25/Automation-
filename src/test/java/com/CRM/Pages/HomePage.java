@@ -3,6 +3,8 @@ package com.CRM.Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import com.CRM.Utility.Screenshot_Utility;
+
 public class HomePage {
 
 	//Encapsulation : Wrapping of data and function together into single unit
@@ -34,7 +36,9 @@ public class HomePage {
 	
 	public String getStatusOfLink()
 	{
+		Screenshot_Utility.getScreenshot(driver);
 		 driver.findElement(link).click();
+		 Screenshot_Utility.getScreenshot(driver);
 		 return driver.getCurrentUrl();
 		 
 	}

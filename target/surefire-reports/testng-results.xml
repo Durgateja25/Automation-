@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-01T12:19:23 IST" name="Suite" finished-at="2025-05-01T12:19:42 IST" duration-ms="18157">
+  <suite started-at="2025-05-06T11:53:15 IST" name="Suite" finished-at="2025-05-06T11:53:37 IST" duration-ms="22063">
     <groups>
     </groups>
-    <test started-at="2025-05-01T12:19:23 IST" name="HomePageTest" finished-at="2025-05-01T12:19:31 IST" duration-ms="7454">
+    <test started-at="2025-05-06T11:53:15 IST" name="HomePageTest" finished-at="2025-05-06T11:53:24 IST" duration-ms="8807">
       <class name="com.CRM.TestCase.HomePageTestCase">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.CRM.TestCase.HomePageTestCase@6302bbb1]" started-at="2025-05-01T12:19:23 IST" name="setUp" finished-at="2025-05-01T12:19:28 IST" duration-ms="4736" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.CRM.TestCase.HomePageTestCase@59309333]" started-at="2025-05-06T11:53:15 IST" name="setUp" finished-at="2025-05-06T11:53:22 IST" duration-ms="7434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testAppUrl()[pri:1, instance:com.CRM.TestCase.HomePageTestCase@6302bbb1]" started-at="2025-05-01T12:19:28 IST" name="testAppUrl" finished-at="2025-05-01T12:19:28 IST" duration-ms="21" status="PASS">
+        <test-method signature="testAppUrl()[pri:1, instance:com.CRM.TestCase.HomePageTestCase@59309333]" started-at="2025-05-06T11:53:22 IST" name="testAppUrl" finished-at="2025-05-06T11:53:22 IST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAppUrl -->
-        <test-method signature="testAppTitle()[pri:2, instance:com.CRM.TestCase.HomePageTestCase@6302bbb1]" started-at="2025-05-01T12:19:28 IST" name="testAppTitle" finished-at="2025-05-01T12:19:28 IST" duration-ms="21" status="PASS">
+        <test-method signature="testAppTitle()[pri:2, instance:com.CRM.TestCase.HomePageTestCase@59309333]" started-at="2025-05-06T11:53:22 IST" name="testAppTitle" finished-at="2025-05-06T11:53:22 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAppTitle -->
-        <test-method signature="testSignInLink()[pri:3, instance:com.CRM.TestCase.HomePageTestCase@6302bbb1]" started-at="2025-05-01T12:19:28 IST" name="testSignInLink" finished-at="2025-05-01T12:19:31 IST" duration-ms="2592" status="PASS">
+        <test-method signature="testSignInLink()[pri:3, instance:com.CRM.TestCase.HomePageTestCase@59309333]" started-at="2025-05-06T11:53:22 IST" name="testSignInLink" finished-at="2025-05-06T11:53:24 IST" duration-ms="1262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSignInLink -->
       </class> <!-- com.CRM.TestCase.HomePageTestCase -->
     </test> <!-- HomePageTest -->
-    <test started-at="2025-05-01T12:19:31 IST" name="LoginPageTest" finished-at="2025-05-01T12:19:42 IST" duration-ms="10656">
+    <test started-at="2025-05-06T11:53:24 IST" name="LoginPageTest" finished-at="2025-05-06T11:53:37 IST" duration-ms="13169">
       <class name="com.CRM.TestCase.LoginPageTestCase">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2d1ef81a]" started-at="2025-05-01T12:19:31 IST" name="setUp" finished-at="2025-05-01T12:19:35 IST" duration-ms="4003" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2a3b5b47]" started-at="2025-05-06T11:53:24 IST" name="setUp" finished-at="2025-05-06T11:53:28 IST" duration-ms="4566" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2d1ef81a]" started-at="2025-05-01T12:19:35 IST" name="pageSetUp" finished-at="2025-05-01T12:19:36 IST" duration-ms="1301" status="PASS">
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2a3b5b47]" started-at="2025-05-06T11:53:28 IST" name="pageSetUp" finished-at="2025-05-06T11:53:30 IST" duration-ms="1396" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageSetUp -->
-        <test-method signature="validateLogin()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2d1ef81a]" started-at="2025-05-01T12:19:36 IST" name="validateLogin" finished-at="2025-05-01T12:19:42 IST" duration-ms="5348" status="PASS">
+        <test-method signature="validateLogin()[pri:0, instance:com.CRM.TestCase.LoginPageTestCase@2a3b5b47]" started-at="2025-05-06T11:53:30 IST" name="validateLogin" finished-at="2025-05-06T11:53:37 IST" duration-ms="7205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLogin -->
