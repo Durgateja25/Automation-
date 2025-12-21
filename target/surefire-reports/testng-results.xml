@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-21T12:11:37 IST" name="Surefire suite" finished-at="2025-12-21T12:11:48 IST" duration-ms="10960">
+    <groups>
+    </groups>
+    <test started-at="2025-12-21T12:11:37 IST" name="Surefire test" finished-at="2025-12-21T12:11:48 IST" duration-ms="10960">
+      <class name="com.webtables.test.WebTable_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.webtables.test.WebTable_Test@6580cfdd]" started-at="2025-12-21T12:11:37 IST" name="setup" finished-at="2025-12-21T12:11:42 IST" duration-ms="4924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWebTableData()[pri:0, instance:com.webtables.test.WebTable_Test@6580cfdd]" started-at="2025-12-21T12:11:42 IST" name="verifyWebTableData" finished-at="2025-12-21T12:11:47 IST" duration-ms="5481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebTableData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webtables.test.WebTable_Test@6580cfdd]" started-at="2025-12-21T12:11:47 IST" name="tearDown" finished-at="2025-12-21T12:11:48 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webtables.test.WebTable_Test -->
+      <class name="com.Calculator.Calculator_Test">
+        <test-method signature="testAddition()[pri:1, instance:com.Calculator.Calculator_Test@10e41621]" started-at="2025-12-21T12:11:37 IST" name="testAddition" finished-at="2025-12-21T12:11:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method signature="testSubtraction()[pri:2, instance:com.Calculator.Calculator_Test@10e41621]" started-at="2025-12-21T12:11:37 IST" name="testSubtraction" finished-at="2025-12-21T12:11:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method signature="testMultiplication()[pri:3, instance:com.Calculator.Calculator_Test@10e41621]" started-at="2025-12-21T12:11:37 IST" name="testMultiplication" finished-at="2025-12-21T12:11:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method signature="testDivision()[pri:4, instance:com.Calculator.Calculator_Test@10e41621]" started-at="2025-12-21T12:11:37 IST" name="testDivision" finished-at="2025-12-21T12:11:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+      </class> <!-- com.Calculator.Calculator_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
