@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="CapstoneSuite">
+<listeners>
+    <listener class-name="com.listeners.ExtentITestNGListeners"/>
+</listeners>
+
+    <test name="WordPressTest">
+
+        <classes>
+            <class name="com.runner.TestRunner"/>
+        </classes>
+
+    </test>
+
+</suite>
